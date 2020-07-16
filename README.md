@@ -1,7 +1,7 @@
 ### Hi, I am Ege --a high school student who studies Machine Learning and Deep Learning with Mathematics. Prior to AI, I made lots of apps with Python and Django / Flask frameworks, you can find the projects in [my Github Repositories](https://github.com/egehurturk?tab=repositories). 
 
 ### Get in Touch
-===
+---
 * Instagram: [http://instagram.com/ege.hurturk/](http://instagram.com/ege.hurturk/)
 * Twitter: [https://twitter.com/egehurturk](https://twitter.com/egehurturk)
 * LinkedIn: [https://www.linkedin.com/in/ege-hurturk-037a7b1b0/](https://www.linkedin.com/in/ege-hurturk-037a7b1b0/)
