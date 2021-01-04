@@ -1,8 +1,8 @@
-## Hi, I am Ege
---a high school student who is now doing Competitive Programming and studying algorithms. Look at the projects I did in [my Github Repositories](https://github.com/egehurturk?tab=repositories). 
+## welcome
+[my Github Repositories](https://github.com/egehurturk?tab=repositories). 
 \
 ![Bad code](https://i.imgur.com/fEF6gXv.gif?noredirect) \
-Get In Touch:
+
  
 ---
 * Instagram: [http://instagram.com/ege.hurturk/](http://instagram.com/ege.hurturk/)
