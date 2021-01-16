@@ -1,26 +1,4 @@
-## welcome
-[my Github Repositories](https://github.com/egehurturk?tab=repositories). 
+
+\ 
 \
 ![Bad code](https://i.imgur.com/fEF6gXv.gif?noredirect) \
-
- 
----
-* Instagram: [http://instagram.com/ege.hurturk/](http://instagram.com/ege.hurturk/)
-* Twitter: [https://twitter.com/egehurturk](https://twitter.com/egehurturk)
-* LinkedIn: [https://www.linkedin.com/in/ege-hurturk-037a7b1b0/](https://www.linkedin.com/in/ege-hurturk-037a7b1b0/)
-
-
-<!--
-**egehurturk/egehurturk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
