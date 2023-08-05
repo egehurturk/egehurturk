@@ -1,4 +1,3 @@
+# Hi
 
-
-\
-![Bad code](https://i.imgur.com/fEF6gXv.gif?noredirect) 
+I'm an experienced Python, Java, and web developer who loves AI & Deep learning.
